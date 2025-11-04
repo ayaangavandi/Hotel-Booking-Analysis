@@ -20,7 +20,7 @@ The project follows a **complete data analytics lifecycle**, starting from datas
 | Tool | Purpose |
 |------|----------|
 | 📊 Excel | Dataset review, structure understanding, and data validation |
-| 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn) | Data cleaning, EDA, statistical analysis, visualization |
+| 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn) | Data cleaning, EDA, statistical analysis, data analysis, visualization |
 | 🤖 ChatGPT | Assisted in report writing, analytical insights, and Python code refinement |
 | 🪄 Gamma AI | Designed presentation slides for project storytelling |
 | 📝 Microsoft Word / PDF | Detailed final report documentation |
