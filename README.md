@@ -4,7 +4,7 @@
 This project analyzes **hotel booking data** to uncover patterns in **reservation behavior, cancellations, and pricing strategies**.  
 The dataset consists of **118,897 hotel bookings** with **31 attributes**, covering both **city hotels** and **resort hotels**.  
 
-The project follows a **complete data analytics lifecycle**, starting from dataset exploration in **Excel**, data cleaning and exploratory analysis using **Python**, in-depth **data analysis and visualization**, and finally presenting insights through a professional **report and presentation**.  
+The project follows a **complete data analytics lifecycle**, starting from dataset exploration in **Excel**, data cleaning and exploratory analysis using **Python**, in-depth **data analysis and visualization**, and finally presenting insights through a professional **report and presentation** using AI.  
 
 ---
 
@@ -20,8 +20,8 @@ The project follows a **complete data analytics lifecycle**, starting from datas
 | Tool | Purpose |
 |------|----------|
 | 📊 Excel | Dataset review, structure understanding, and data validation |
-| 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn) | Data cleaning, EDA, statistical analysis, data analysis, visualization |
-| 🤖 ChatGPT | Assisted in report writing, analytical insights, and Python code refinement |
+| 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn) | Data cleaning, EDA, statistical analysis, data analysis, insights, visualization |
+| 🤖 ChatGPT | Assisted in report writing, summary, and Python code refinement |
 | 🪄 Gamma AI | Designed presentation slides for project storytelling |
 | 📝 Microsoft Word / PDF | Detailed final report documentation |
 
@@ -87,7 +87,7 @@ Performed complete **Exploratory Data Analysis (EDA)** in Python using `Pandas`,
 ---
 
 ### 4️⃣ Reporting — ChatGPT & Word Integration  
-- Used **ChatGPT** to generate insights, summarize analytical results, and refine the Python code.  
+- Used **ChatGPT** to summarize analytical results, and refine the Python code.  
 - Compiled results into a **detailed report (Word → PDF)** summarizing findings, graphs, and recommendations.  
 
 ---
@@ -137,8 +137,8 @@ By integrating multiple tools — Excel, Python, ChatGPT, and Gamma AI — the p
 | Tool | Purpose |
 |------|----------|
 | 📊 Excel | Dataset understanding & management |
-| 🐍 Python | EDA, data cleaning, analysis & visualization |
-| 🤖 ChatGPT | Report writing, insights & coding assistance |
+| 🐍 Python | EDA, data cleaning, insights, analysis & visualization |
+| 🤖 ChatGPT | Report writing & coding assistance |
 | 🪄 Gamma AI | Project presentation design |
 | 📝 Word / PDF | Report documentation & delivery |
 
